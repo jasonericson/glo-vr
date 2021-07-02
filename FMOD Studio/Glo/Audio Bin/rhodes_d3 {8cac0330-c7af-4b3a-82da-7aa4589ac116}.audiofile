@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{8cac0330-c7af-4b3a-82da-7aa4589ac116}">
+        <property name="frequencyInKHz">
+            <value>44.1</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.22149659863946</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>1422661345</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/rhodes_d3 {bce59d25-2baa-463e-84b7-087c41828f36}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{5452f33a-b69e-4d8d-8e7a-b657634899d5}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{8f85589b-d406-4afc-af84-1ad58ac20eba}">
+        <property name="frequencyInKHz">
+            <value>44.1</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.0847392290249433</value>
+        </property>
+        <property name="lastModifiedDate">
+            <value>1422661345</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/enemy_snare {790181d8-762f-4e89-8c40-54cd6d16cc8a}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{5452f33a-b69e-4d8d-8e7a-b657634899d5}</destination>
+        </relationship>
+    </object>
+</objects>
